@@ -4,3 +4,4 @@ you can write any singer, band, and so on.
 
 # list of favorite artists
 Kenshi Yonezu
+Greg Notill
