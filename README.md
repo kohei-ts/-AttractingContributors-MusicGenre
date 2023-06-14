@@ -32,3 +32,4 @@ You can add not only fine-grained genres (ex. Gacha Pop, Hyperpop, Alternative R
 10. Vocaloid
 11. game-music
 12. Altanative rock
+13. Thrilling
