@@ -8,6 +8,7 @@ you can write any singer, band, and so on.
 2.仁井学 NII Manabu (Twitter @aleos696)<br/>
 3.amazarashi<br/>
 4.菅原圭 Sugawara Kei<br/>
-5.Spitz
-6.Duca
+5.Spitz<br/>
+6.Duca<br/>
+7.人間椅子<br/>
 
